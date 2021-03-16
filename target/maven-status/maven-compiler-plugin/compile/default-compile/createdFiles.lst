@@ -1,0 +1,6 @@
+com/enesycr/wordcount/WordCount.class
+com/enesycr/wordcount/WordCountReducer.class
+com/enesycr/telco/Churn.class
+com/enesycr/telco/ChurnReducer.class
+com/enesycr/telco/ChurnMapper.class
+com/enesycr/wordcount/WordCountMapper.class
